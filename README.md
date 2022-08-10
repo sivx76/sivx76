@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
 
-<!--
-**sivx76/sivx76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Software Engineer focused on iOS development. I am experienced in technologies such as UIKit, Swift UI, iOS Widgets, Combine, Swift Package Manager, Mac Catalyst and other tools.
 
-Here are some ideas to get you started:
+At Stanford University, I teach the iOS Development course at Stanford Continuing Studies. My Wife and I wrote 4 books on iOS Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My greatest skills are:
+- Building new applications and software frameworks
+- Leading engineering teams
+- Introducing clean code and process improvements
+- Teaching complex topics in a practical and simple way - for developers and non-technical audiences
+
+Some of my most notable projects are the website for CA Notify (www.canotify.ca.gov) used by over 15 million people and proprietary software used to manage investments in the United States, China and Japan.
